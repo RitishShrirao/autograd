@@ -1,3 +1,5 @@
+Added vector support to micrograd (https://github.com/karpathy/micrograd)
+
 TODO:
-Add multidimensional tensor support
-Add convolution
+1) Add multidimensional tensor support
+2) Add convolution
